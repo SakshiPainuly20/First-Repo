@@ -10,4 +10,4 @@ Thank You!
 
 
 ## Summary
-It's a nice repo..
+It's a nice repo.
